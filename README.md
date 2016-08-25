@@ -10,4 +10,5 @@ lt --port 3000
 ```
 
 ##Preview
+It`s not an image, wait!
 ![](http://i.imgur.com/wcAlOBv.gif)
