@@ -1,0 +1,2 @@
+web: node index.js
+ngrok: ngrok http -subdomain=fbmsg 5000
